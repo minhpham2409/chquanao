@@ -1,0 +1,12 @@
+.function-choice{
+    padding: 20px 0;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    align-items: center;
+}
+.choice li{
+    list-style: none;
+}
+.choice h2{
+    font-size: ;
+}

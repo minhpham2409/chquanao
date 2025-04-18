@@ -1,0 +1,931 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "minh",
+      "role": "Admin",
+      "email": "user@gmail.com",
+      "password": "123456",
+      "cartItems": {},
+      "rname": "foidsjiio",
+      "street": "òdjoi",
+      "city": "ọidoij",
+      "state": "òidjoij",
+      "phone": "0333333333",
+      "note": ""
+    },
+    {
+      "id": "ea6f",
+      "name": "huyen",
+      "email": "huyen@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "cartItems": {},
+      "rname": "adsuih",
+      "street": "iuhdisuf",
+      "city": "iuhdsiuh",
+      "state": "iufhdsiu",
+      "phone": "0322222222",
+      "note": ""
+    },
+    {
+      "id": "98b6",
+      "name": "long",
+      "email": "long@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "cartItems": {}
+    },
+    {
+      "id": "3c01",
+      "name": "duong",
+      "email": "duongvd@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "cartItems": {}
+    },
+    {
+      "id": "036f",
+      "name": "dung",
+      "email": "dung@gmail.com",
+      "password": "112345",
+      "role": "user",
+      "cartItems": {},
+      "rname": "uuiiyi",
+      "street": "iyiyi",
+      "city": "uyiuyi",
+      "state": "iuyiuyi",
+      "phone": "0123456789",
+      "note": ""
+    },
+    {
+      "id": "b163",
+      "name": "huyen",
+      "email": "huyen1@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "cartItems": {},
+      "rname": "huyen",
+      "street": "fsdjjo",
+      "city": "oifjsdoi",
+      "state": "oiijfdosij",
+      "phone": "0333333333",
+      "note": ""
+    },
+    {
+      "id": "43c5",
+      "name": "minh",
+      "email": "minh@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "cartItems": {},
+      "rname": "jfodij",
+      "street": "òidsoij",
+      "city": "ồiisj",
+      "state": "òiddoijoi",
+      "phone": "0333333333",
+      "note": "dsiojfoisdfj"
+    }
+  ],
+  "orders": [
+    {
+      "id": "9aeb",
+      "userId": null,
+      "items": {
+        "2": 3
+      },
+      "total": 56,
+      "shipping": {
+        "rname": "minh",
+        "street": "duhsiusd",
+        "city": "kfdshiu",
+        "state": "hfiudhfi",
+        "phone": "0112345666",
+        "note": ""
+      },
+      "createdAt": "2025-04-05T13:57:04.877Z"
+    },
+    {
+      "id": "3a35",
+      "userId": null,
+      "items": {
+        "1": 5
+      },
+      "total": 62,
+      "shipping": {
+        "rname": "minh",
+        "street": "duhsiusd",
+        "city": "kfdshiu",
+        "state": "hfiudhfi",
+        "phone": "0112345666",
+        "note": ""
+      },
+      "createdAt": "2025-04-05T13:57:49.886Z"
+    },
+    {
+      "id": "d829",
+      "userId": null,
+      "items": {},
+      "total": 2,
+      "shipping": {
+        "rname": "dsjhhb",
+        "street": "jfhsjdh",
+        "city": "jhfbdsj",
+        "state": "jhgsfj",
+        "phone": "0666666666",
+        "note": ""
+      },
+      "createdAt": "2025-04-05T14:16:57.448Z"
+    },
+    {
+      "id": "8bfd",
+      "userId": null,
+      "items": {
+        "2": 5
+      },
+      "total": 92,
+      "shipping": {
+        "rname": "dsjhhb",
+        "street": "jfhsjdh",
+        "city": "jhfbdsj",
+        "state": "jhgsfj",
+        "phone": "0666666666",
+        "note": ""
+      },
+      "createdAt": "2025-04-05T14:17:48.050Z"
+    },
+    {
+      "id": "7304",
+      "userId": null,
+      "items": {
+        "2": 3
+      },
+      "total": 56,
+      "shipping": {
+        "rname": "dsjhhb",
+        "street": "jfhsjdh",
+        "city": "jhfbdsj",
+        "state": "jhgsfj",
+        "phone": "0666666666",
+        "note": ""
+      },
+      "createdAt": "2025-04-05T14:23:17.156Z"
+    },
+    {
+      "id": "9de8",
+      "userId": null,
+      "items": {
+        "2": 4
+      },
+      "total": 74,
+      "shipping": {
+        "rname": "dsjhhb",
+        "street": "jfhsjdh",
+        "city": "jhfbdsj",
+        "state": "jhgsfj",
+        "phone": "0666666666",
+        "note": ""
+      },
+      "createdAt": "2025-04-05T14:27:27.529Z"
+    },
+    {
+      "id": "e870",
+      "userId": null,
+      "items": {
+        "2": 3
+      },
+      "total": 2,
+      "shipping": {
+        "rname": "dsjhhb",
+        "street": "jfhsjdh",
+        "city": "jhfbdsj",
+        "state": "jhgsfj",
+        "phone": "0666666666",
+        "note": ""
+      },
+      "createdAt": "2025-04-09T02:49:13.058Z"
+    },
+    {
+      "id": "fcd3",
+      "userId": null,
+      "items": {
+        "3": 3
+      },
+      "total": 50,
+      "shipping": {
+        "rname": "flskdmfl",
+        "street": "fjsoiu",
+        "city": "oifjdoi",
+        "state": "oijfoij",
+        "phone": "0990999999",
+        "note": ""
+      },
+      "createdAt": "2025-04-09T03:15:32.229Z"
+    },
+    {
+      "id": "f300",
+      "userId": null,
+      "items": {
+        "2": 4,
+        "3": 5
+      },
+      "total": 154,
+      "shipping": {
+        "rname": "flskdmfl",
+        "street": "fjsoiu",
+        "city": "oifjdoi",
+        "state": "oijfoij",
+        "phone": "0990999999",
+        "note": ""
+      },
+      "createdAt": "2025-04-09T04:43:11.041Z"
+    },
+    {
+      "id": "b140",
+      "userId": "43c5",
+      "items": {
+        "3": 4
+      },
+      "total": 66,
+      "shipping": {
+        "rname": "jfodij",
+        "street": "òidsoij",
+        "city": "ồiisj",
+        "state": "òiddoijoi",
+        "phone": "0333333333",
+        "note": "dsiojfoisdfj"
+      },
+      "createdAt": "2025-04-17T03:15:26.173Z"
+    },
+    {
+      "id": "5e56",
+      "userId": "b163",
+      "items": {
+        "37": 7
+      },
+      "total": 23,
+      "shipping": {
+        "rname": "huyen",
+        "street": "fsdjjo",
+        "city": "oifjsdoi",
+        "state": "oiijfdosij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-17T03:30:28.360Z"
+    },
+    {
+      "id": "8f1a",
+      "userId": "ea6f",
+      "items": {
+        "12": 6
+      },
+      "total": 74,
+      "shipping": {
+        "rname": "adsuih",
+        "street": "iuhdisuf",
+        "city": "iuhdsiuh",
+        "state": "iufhdsiu",
+        "phone": "0322222222",
+        "note": ""
+      },
+      "createdAt": "2025-04-17T04:47:21.646Z"
+    },
+    {
+      "id": "e034",
+      "userId": "1",
+      "items": {
+        "2": 3,
+        "3": 4
+      },
+      "total": 377,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T06:20:13.523Z"
+    },
+    {
+      "id": "fc0f",
+      "userId": "1",
+      "items": {
+        "6-L": 1
+      },
+      "total": 77,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T06:45:51.915Z"
+    },
+    {
+      "id": "ba06",
+      "userId": "1",
+      "items": {
+        "1-L": 3,
+        "2-XL": 1,
+        "1-XL": 1
+      },
+      "total": 127,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T06:56:40.108Z"
+    }
+  ],
+  "dishes": [
+    {
+      "id": "1",
+      "name": "Basic White T-Shirt",
+      "image": "tshirt_white",
+      "price": 20,
+      "description": "A soft cotton basic white t-shirt for everyday wear.",
+      "category": "Shirt",
+      "brand": "Uniwear",
+      "material": "Cotton",
+      "color": "White",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 5
+        },
+        {
+          "size": "M",
+          "quantity": 8
+        },
+        {
+          "size": "L",
+          "quantity": 6
+        },
+        {
+          "size": "XL",
+          "quantity": 4
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Slim Fit Jeans",
+      "image": "jeans_slim",
+      "price": 45,
+      "description": "Stretch denim slim-fit jeans, perfect for casual outings.",
+      "category": "Pants",
+      "brand": "DenimCo",
+      "material": "Denim",
+      "color": "Blue",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 6
+        },
+        {
+          "size": "M",
+          "quantity": 9
+        },
+        {
+          "size": "L",
+          "quantity": 7
+        },
+        {
+          "size": "XL",
+          "quantity": 5
+        },
+        {
+          "size": "XXL",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Casual Sneakers",
+      "image": "sneakers_white",
+      "price": 60,
+      "description": "Comfortable and stylish sneakers for everyday walks.",
+      "category": "Shoes",
+      "brand": "RunFree",
+      "material": "Synthetic",
+      "color": "White",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 5
+        },
+        {
+          "size": "M",
+          "quantity": 8
+        },
+        {
+          "size": "L",
+          "quantity": 7
+        },
+        {
+          "size": "XL",
+          "quantity": 4
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Summer Floral Dress",
+      "image": "dress_floral",
+      "price": 35,
+      "description": "Light and breezy floral dress for summer.",
+      "category": "Dress",
+      "brand": "BloomWear",
+      "material": "Polyester",
+      "color": "Pink",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 4
+        },
+        {
+          "size": "M",
+          "quantity": 7
+        },
+        {
+          "size": "L",
+          "quantity": 5
+        },
+        {
+          "size": "XL",
+          "quantity": 2
+        },
+        {
+          "size": "XXL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Leather Wallet",
+      "image": "wallet_leather",
+      "price": 25,
+      "description": "Premium leather wallet with multiple compartments.",
+      "category": "Accessories",
+      "brand": "LeatherCo",
+      "material": "Leather",
+      "color": "Brown",
+      "sizes": [
+        {
+          "size": "One Size",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Denim Jacket",
+      "image": "jacket_denim",
+      "price": 75,
+      "description": "Classic denim jacket with a modern fit.",
+      "category": "Outerwear",
+      "brand": "DenimCo",
+      "material": "Denim",
+      "color": "Blue",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 5
+        },
+        {
+          "size": "M",
+          "quantity": 7
+        },
+        {
+          "size": "L",
+          "quantity": 6
+        },
+        {
+          "size": "XL",
+          "quantity": 3
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Sports Cap",
+      "image": "cap_sports",
+      "price": 15,
+      "description": "Adjustable sports cap for casual wear.",
+      "category": "Accessories",
+      "brand": "CapKing",
+      "material": "Cotton",
+      "color": "Black",
+      "sizes": [
+        {
+          "size": "One Size",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Office Formal Shirt",
+      "image": "shirt_formal",
+      "price": 30,
+      "description": "Slim-fit formal shirt ideal for office wear.",
+      "category": "Shirt",
+      "brand": "FormWear",
+      "material": "Cotton",
+      "color": "White",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 5
+        },
+        {
+          "size": "M",
+          "quantity": 8
+        },
+        {
+          "size": "L",
+          "quantity": 6
+        },
+        {
+          "size": "XL",
+          "quantity": 3
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Casual Hoodie",
+      "image": "hoodie_casual",
+      "price": 40,
+      "description": "Comfortable hoodie for daily casual looks.",
+      "category": "Outerwear",
+      "brand": "CozyCloth",
+      "material": "Fleece",
+      "color": "Grey",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 4
+        },
+        {
+          "size": "M",
+          "quantity": 7
+        },
+        {
+          "size": "L",
+          "quantity": 5
+        },
+        {
+          "size": "XL",
+          "quantity": 3
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Vegan Leather Belt",
+      "image": "belt_vegan",
+      "price": 20,
+      "description": "Stylish vegan leather belt.",
+      "category": "Accessories",
+      "brand": "EcoWear",
+      "material": "Vegan Leather",
+      "color": "Brown",
+      "sizes": [
+        {
+          "size": "One Size",
+          "quantity": 15
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Graphic Print T-Shirt",
+      "image": "tshirt_graphic",
+      "price": 22,
+      "description": "Bold graphic printed t-shirt.",
+      "category": "Shirt",
+      "brand": "PrintKing",
+      "material": "Cotton",
+      "color": "Black",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 6
+        },
+        {
+          "size": "M",
+          "quantity": 8
+        },
+        {
+          "size": "L",
+          "quantity": 5
+        },
+        {
+          "size": "XL",
+          "quantity": 3
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Running Shorts",
+      "image": "shorts_running",
+      "price": 28,
+      "description": "Lightweight running shorts.",
+      "category": "Pants",
+      "brand": "RunFree",
+      "material": "Polyester",
+      "color": "Blue",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 5
+        },
+        {
+          "size": "M",
+          "quantity": 8
+        },
+        {
+          "size": "L",
+          "quantity": 6
+        },
+        {
+          "size": "XL",
+          "quantity": 4
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Plaid Skirt",
+      "image": "skirt_plaid",
+      "price": 35,
+      "description": "Stylish plaid skirt for casual wear.",
+      "category": "Dress",
+      "brand": "PlaidWear",
+      "material": "Cotton Blend",
+      "color": "Red",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 4
+        },
+        {
+          "size": "M",
+          "quantity": 7
+        },
+        {
+          "size": "L",
+          "quantity": 5
+        },
+        {
+          "size": "XL",
+          "quantity": 3
+        },
+        {
+          "size": "XXL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Knitted Scarf",
+      "image": "scarf_knit",
+      "price": 18,
+      "description": "Warm knitted scarf for winter.",
+      "category": "Accessories",
+      "brand": "WarmUp",
+      "material": "Wool",
+      "color": "Grey",
+      "sizes": [
+        {
+          "size": "One Size",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Classic Trench Coat",
+      "image": "coat_trench",
+      "price": 120,
+      "description": "Elegant trench coat for formal occasions.",
+      "category": "Outerwear",
+      "brand": "FormWear",
+      "material": "Cotton",
+      "color": "Beige",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 4
+        },
+        {
+          "size": "M",
+          "quantity": 6
+        },
+        {
+          "size": "L",
+          "quantity": 5
+        },
+        {
+          "size": "XL",
+          "quantity": 3
+        },
+        {
+          "size": "XXL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "High-top Sneakers",
+      "image": "sneakers_high",
+      "price": 85,
+      "description": "Trendy high-top sneakers.",
+      "category": "Shoes",
+      "brand": "RunFree",
+      "material": "Synthetic",
+      "color": "Black",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 5
+        },
+        {
+          "size": "M",
+          "quantity": 7
+        },
+        {
+          "size": "L",
+          "quantity": 6
+        },
+        {
+          "size": "XL",
+          "quantity": 4
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Summer Shorts",
+      "image": "shorts_summer",
+      "price": 25,
+      "description": "Light and breathable summer shorts.",
+      "category": "Pants",
+      "brand": "SummerWear",
+      "material": "Cotton",
+      "color": "Beige",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 5
+        },
+        {
+          "size": "M",
+          "quantity": 8
+        },
+        {
+          "size": "L",
+          "quantity": 6
+        },
+        {
+          "size": "XL",
+          "quantity": 4
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Party Dress",
+      "image": "dress_party",
+      "price": 65,
+      "description": "Glamorous party dress for special events.",
+      "category": "Dress",
+      "brand": "GlamUp",
+      "material": "Silk",
+      "color": "Red",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 3
+        },
+        {
+          "size": "M",
+          "quantity": 5
+        },
+        {
+          "size": "L",
+          "quantity": 4
+        },
+        {
+          "size": "XL",
+          "quantity": 2
+        },
+        {
+          "size": "XXL",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Everyday Sneakers",
+      "image": "sneakers_everyday",
+      "price": 55,
+      "description": "Durable sneakers for everyday use.",
+      "category": "Shoes",
+      "brand": "WalkEase",
+      "material": "Canvas",
+      "color": "Grey",
+      "sizes": [
+        {
+          "size": "S",
+          "quantity": 6
+        },
+        {
+          "size": "M",
+          "quantity": 8
+        },
+        {
+          "size": "L",
+          "quantity": 5
+        },
+        {
+          "size": "XL",
+          "quantity": 3
+        },
+        {
+          "size": "XXL",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Minimalist Backpack",
+      "image": "backpack_minimalist",
+      "price": 70,
+      "description": "Simple and durable backpack.",
+      "category": "Accessories",
+      "brand": "BagWorld",
+      "material": "Nylon",
+      "color": "Black",
+      "sizes": [
+        {
+          "size": "One Size",
+          "quantity": 15
+        }
+      ]
+    }
+  ]
+}
