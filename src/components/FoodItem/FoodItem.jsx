@@ -1,14 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
 import './FoodItem.css';
 import { assets } from '../../assets/assets';
-import { useStore } from '../../context/StoreContext';
+import { StoreContext } from '../../context/StoreContext';
 import AddPopUp from '../AddPopUp/AddPopUp';
 
-const FoodItem = ({ id, name, price, description, image, sizes = [] }) => {
-  const { currentUser } = useStore();
+const FoodItem = ({ id, name, price, description, image, sizes }) => {
+  const { currentUser } = useContext(StoreContext);
   const [showPopup, setShowPopup] = useState(false);
 
-  const handleAdd = (e) => {
+  const handleAddButtonClick = (e) => {
     e.stopPropagation();
     if (!currentUser) {
       alert("Bạn cần đăng nhập để thêm sản phẩm vào giỏ!");
@@ -21,20 +21,19 @@ const FoodItem = ({ id, name, price, description, image, sizes = [] }) => {
     <>
       <div className="food-item">
         <div className="food-item-img-container">
-          <img className='food-item-img' src={image} alt="" />
+          <img className='food-item-img' src={assets[image] || assets.placeholder} alt={name} />
         </div>
 
         <div className="food-item-info">
           <div className="food-item-rating">
             <p>{name}</p>
-            {/* <img src={assets.rating_starts} alt="" /> */}
           </div>
           <p className="food-item-desc">{description}</p>
           <p className="food-item-price">${price}</p>
           
           <button 
             className="add-to-cart-btn" 
-            onClick={handleAdd}
+            onClick={handleAddButtonClick}
           >
             Thêm vào giỏ
           </button>

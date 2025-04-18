@@ -344,6 +344,199 @@
         "note": ""
       },
       "createdAt": "2025-04-18T06:56:40.108Z"
+    },
+    {
+      "id": "ba46",
+      "userId": "ea6f",
+      "items": {
+        "3-XXL": 1,
+        "3-XL": 1
+      },
+      "total": 122,
+      "shipping": {
+        "rname": "adsuih",
+        "street": "iuhdisuf",
+        "city": "iuhdsiuh",
+        "state": "iufhdsiu",
+        "phone": "0322222222",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T07:54:38.977Z"
+    },
+    {
+      "id": "7dc5",
+      "userId": "ea6f",
+      "items": {
+        "3-XXL": 1
+      },
+      "total": 62,
+      "shipping": {
+        "rname": "adsuih",
+        "street": "iuhdisuf",
+        "city": "iuhdsiuh",
+        "state": "iufhdsiu",
+        "phone": "0322222222",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T07:58:22.227Z"
+    },
+    {
+      "id": "7db6",
+      "userId": "1",
+      "items": {
+        "3-XXL": 1
+      },
+      "total": 62,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:02:48.190Z"
+    },
+    {
+      "id": "e8f0",
+      "userId": "1",
+      "items": {},
+      "total": 2,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:05:43.269Z"
+    },
+    {
+      "id": "488c",
+      "userId": "1",
+      "items": {
+        "3-XXL": 1
+      },
+      "total": 62,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:05:58.547Z"
+    },
+    {
+      "id": "7c2d",
+      "userId": "1",
+      "items": {
+        "3-XXL": 1
+      },
+      "total": 62,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:06:34.160Z"
+    },
+    {
+      "id": "7a13",
+      "userId": "1",
+      "items": {
+        "3-XXL": 1
+      },
+      "total": 62,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:07:36.916Z"
+    },
+    {
+      "id": "f89d",
+      "userId": "1",
+      "items": {
+        "3-XXL": 2,
+        "7-One Size": 1,
+        "6-XXL": 1
+      },
+      "total": 212,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:11:47.045Z"
+    },
+    {
+      "id": "fcf5",
+      "userId": "1",
+      "items": {
+        "1-XXL": 1
+      },
+      "total": 22,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:12:43.988Z"
+    },
+    {
+      "id": "562c",
+      "userId": "1",
+      "items": {
+        "3-XXL": 2,
+        "7-One Size": 1,
+        "6-XXL": 1,
+        "1-XXL": 1
+      },
+      "total": 232,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:13:29.780Z"
+    },
+    {
+      "id": "8a8c",
+      "userId": "1",
+      "items": {
+        "1-XXL": 1,
+        "7-One Size": 1,
+        "8-XXL": 1
+      },
+      "total": 67,
+      "shipping": {
+        "rname": "foidsjiio",
+        "street": "òdjoi",
+        "city": "ọidoij",
+        "state": "òidjoij",
+        "phone": "0333333333",
+        "note": ""
+      },
+      "createdAt": "2025-04-18T08:14:11.493Z"
     }
   ],
   "dishes": [
@@ -376,7 +569,7 @@
         },
         {
           "size": "XXL",
-          "quantity": 2
+          "quantity": 0
         }
       ]
     },
@@ -442,7 +635,7 @@
         },
         {
           "size": "XXL",
-          "quantity": 2
+          "quantity": 0
         }
       ]
     },
@@ -525,7 +718,7 @@
         },
         {
           "size": "XXL",
-          "quantity": 2
+          "quantity": 0
         }
       ]
     },
@@ -542,7 +735,7 @@
       "sizes": [
         {
           "size": "One Size",
-          "quantity": 15
+          "quantity": 11
         }
       ]
     },
@@ -575,7 +768,7 @@
         },
         {
           "size": "XXL",
-          "quantity": 2
+          "quantity": 1
         }
       ]
     },
